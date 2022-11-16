@@ -1,4 +1,4 @@
-## JUGGLER (Misc)
+## The JUGGLER (Misc)
 ```
 <?php
 include 'secret.php';
@@ -28,7 +28,7 @@ Changing the comparison opeartor from **"=="** to **"==="** correctly passes the
 ![image](_images/oie_C7BerbRBduib.png)
 
 
-## Nimbus (OSINT)
+## Nimbus prime (OSINT)
 
 
 
@@ -37,7 +37,7 @@ An image was given, the challenge was to find the location -the latitude and lon
 ![Phote](_images/chall.jpg)
 
 my first attempt was using [tinyeye](tinyeye.com) to do reverse image search, but nothing came up.
-Taking a close look at the pic we could see that it's like a airport or rail way station cause of the people in the pic with luggages
+Taking a close look at the pic we could see that it's like a airport or rail way station cause of the people in the pic with luggages,
 another thing to observe was the nimbus monument (all harry potter fans should know this :grinning: )).
 
 i went on to google map to search for the nimbus monument, one that is specifically around a station of some sort
@@ -47,6 +47,9 @@ i went on to google map to search for the nimbus monument, one that is specifica
 Well the results wasn't that appealing to what i was looking for
 
 my last attempt was using google lens, it brought up a result instantly
+![google_lens](_images/google_lens.png)
+
+going to google maps and doing more search on the area i got the exact location
 
 ![result](_images/Screenshot_2022-11-04_11_07_20.png)
 
